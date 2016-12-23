@@ -1,0 +1,19 @@
+{
+  "name": "simple-tooltip",
+  "version": "1.0.0",
+  "description": "simple-tooltip",
+  "main": "index.js",
+  "scripts": {
+    "start": "node entry.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackmamba1/simple-tooltip.git"
+  },
+  "author": "zhangjg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blackmamba1/simple-tooltip/issues"
+  },
+  "homepage": "https://github.com/Blackmamba1/simple-tooltip#readme"
+}
